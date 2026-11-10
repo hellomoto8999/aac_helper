@@ -1,0 +1,44 @@
+# Python
+.venv/
+backend/.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Dati ARASAAC scaricati (non versionati: li scarica download_data.py)
+backend/data/
+data/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/dist.*/
+frontend/dist.*
+
+# Backup / staging locali
+.migration-backup*/
+*.bak
+*.bak-*
+dist.bak*
+dist.new*
+dist.word*
+dist.autosave*
+dist.pagination*
+dist.pag*
+dist.fixes*
+dist.modelli*
+dist.empty*
+
+# Ambiente / segreti
+.env
+.env.*
+!.env.example
+opencode-auth.json
+**/opencode-auth.json
+*.pem
+*.key
+
+# Altro
+*.log
+.DS_Store
+Thumbs.db

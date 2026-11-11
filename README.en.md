@@ -49,7 +49,7 @@ A4 word-processor-style page.
 Requirements: Python 3.11+, Node.js 18+.
 
 ```bash
-git clone git@github.com:hellomoto8999/aac_helper.git
+git clone <URL-del-repository>
 cd aac_helper
 ```
 

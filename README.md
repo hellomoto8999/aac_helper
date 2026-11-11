@@ -50,7 +50,7 @@ un foglio A4 in stile word processor.
 Requisiti: Python 3.11+, Node.js 18+.
 
 ```bash
-git clone git@github.com:hellomoto8999/aac_helper.git
+git clone <URL-del-repository>
 cd aac_helper
 ```
 
